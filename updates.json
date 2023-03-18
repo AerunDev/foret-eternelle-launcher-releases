@@ -1,0 +1,8 @@
+{
+  "win32-x64-prod": {
+    "readme": "Test release",
+    "update": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.1",
+    "install": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.1/Forêt%20Éternelle%20Launcher%20Setup.exe",
+    "version": "1.0.1"
+  }
+}
