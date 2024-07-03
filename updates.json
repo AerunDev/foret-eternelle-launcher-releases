@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
     "readme": "First release of the Forêt Éternelle game launcher",
-    "update": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.3",
-    "install": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.3/Foret-Eternelle-Launcher-Setup.exe",
-    "version": "1.0.3"
+    "update": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.4",
+    "install": "https://github.com/AerunDev/foret-eternelle-launcher-releases/releases/download/release1.0.4/Foret-Eternelle-Launcher-Setup.exe",
+    "version": "1.0.4"
   }
 }
